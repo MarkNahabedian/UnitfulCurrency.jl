@@ -1770,7 +1770,7 @@ export BTC, ETH, XRP, BCH, USDT, LTC, EOS
 @currencyunit LBS Liteblocks
 @currencyunit LCC LitecoinCash
 @currencyunit LCD Lucyd
-@currencyunit LCH LitecoinCash
+# @currencyunit LCH LitecoinCash
 @currencyunit LCK LuckCash
 @currencyunit LCP LitecoinPlus
 @currencyunit LCS LocalCoinSwap
@@ -2167,7 +2167,7 @@ export BTC, ETH, XRP, BCH, USDT, LTC, EOS
 @currencyunit NOX NITRO
 @currencyunit NPAY NPayNetwork
 @currencyunit NPER NPER
-@currencyunit NPLC PlusCoin
+# @currencyunit NPLC PlusCoin
 @currencyunit NPW NewPowerCoin
 @currencyunit NPX NapoleonX
 @currencyunit NPXS PundiX
